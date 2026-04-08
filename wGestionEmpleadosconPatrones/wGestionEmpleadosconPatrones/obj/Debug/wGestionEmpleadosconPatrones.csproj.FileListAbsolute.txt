@@ -1,0 +1,10 @@
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\bin\Debug\wGestionEmpleadosconPatrones.exe.config
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\bin\Debug\wGestionEmpleadosconPatrones.exe
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\bin\Debug\wGestionEmpleadosconPatrones.pdb
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\obj\Debug\wGestionEmpleadosconPatrones.csproj.AssemblyReference.cache
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\obj\Debug\wGestionEmpleadosconPatrones.frmGestionEmpleados.resources
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\obj\Debug\wGestionEmpleadosconPatrones.Properties.Resources.resources
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\obj\Debug\wGestionEmpleadosconPatrones.csproj.GenerateResource.cache
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\obj\Debug\wGestionEmpleadosconPatrones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\obj\Debug\wGestionEmpleadosconPatrones.exe
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2026-1\wGestionEmpleadosconPatrones\wGestionEmpleadosconPatrones\obj\Debug\wGestionEmpleadosconPatrones.pdb
